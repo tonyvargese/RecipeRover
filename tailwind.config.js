@@ -14,6 +14,5 @@ module.exports = {
       },
     },
   },
-  // variants: {}, // Remove if not using custom variants
-  // plugins: [], // Remove if not using custom plugins
+  
 };
